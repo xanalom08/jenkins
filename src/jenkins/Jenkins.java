@@ -21,6 +21,7 @@ public class Jenkins {
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
             bw.write("    CI Jenkins test");bw.newLine();
+            bw.write("    Updating my Jenkins project");bw.newLine();            
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
